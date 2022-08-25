@@ -6,7 +6,7 @@ Este repositario es para llevar a cabo __apuntes__ y __proyectos__ de la materia
 
 - Mantener un ambiente de trabajo comodo y seguro.
 
-- Aprovechar herramientas como GutHub. 
+- Aprovechar herramientas como GitHub. 
 
 - Saber distinguir entre clases, objetos y metodos para un mejor esquema de codificacion. 
 
@@ -49,4 +49,6 @@ Forma 2:
 
 <span style="color: green"> Some green text </span>
 ```
+***(Cabe mencionar que para que los colores sean visibles tiene que ser compatible)***
+
 Aqui en GitHub puedes saber como hacer esto y mucho mas con este link de por aca [Click.](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
